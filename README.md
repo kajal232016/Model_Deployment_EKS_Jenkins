@@ -46,8 +46,8 @@ Before starting, ensure you have the following set up:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Taha-Cakir/ml-deployment-with-terraform-eks-jenkins.git
-cd ml-deployment-with-terraform-eks-jenkins
+git clone https://github.com/kajal232016/Model_Deployment_EKS_Jenkins.git
+cd Model_Deployment_EKS_Jenkins
 ```
 
 ### Build Infra via Local (Please fill the AWS related parameters)
